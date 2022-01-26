@@ -1,13 +1,12 @@
 const cipher = {
 
- //((códigoDaletra + desloc) % tamDoAlfabeto) = (códigoDaletra + 1) % 26
-    //((códigoDaletraASC - cod1aletra + desloc) % tamDoAlfabeto) + cod1aletra
+  //code: function (string, offset){
 
-    //function cifra(string){
-        //return
-  //  }
+ // }
+ // for (let i= 0; i<=String.lenght; i++){
+    //const  
+  //}
 
-//function encode 
    
         
         
