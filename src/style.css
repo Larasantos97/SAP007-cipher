@@ -1,6 +1,6 @@
 body{
    
-    background-image: url(hearts.jpg);
+    background-image: url(heart.jpeg);
     background-size: 100%;
     font-family: cursive;
     font-size: 20px;
@@ -8,6 +8,7 @@ body{
     margin: 2%;
     text-align: center;
     color: rgb(206, 54, 75);
+    
 }
 .body2{
     background-size: 100%;
@@ -21,35 +22,46 @@ body{
 .meio{
     font-size: 18px;
     text-align: center;
-    color:rgb(63, 6, 37)
-   
-    
+    background-image: url(carta.jpg);
+    background-size: contain;
+    color:rgba(0, 0, 0, 0.993)
+
 }
+.cifrar{
+    text-align: left;
+}
+
 .button{
-    text-align: center;
+    text-align: left;
 	border-radius: 30%;
     padding: 10px;
-    background-color: rgb(231, 6, 74);
-    border-radius: 50%;
-    color:rgb(231, 6, 74) ;
-	border-style: solid;
-    width: 100px
+}
     
+.result{
+    text-align: left;
+}
+.decifrar{
+    text-align: right;
 }
 .button2{
-    text-align: center;
+    text-align: right;
     border-radius: 30%;
     padding: 10px;
-    background-color: rgb(231, 6, 74);
+    
+}
+.result2{
+    text-align: right;
+}
+
+footer{
+    color: black;
+}
+
+/*background-color: rgb(231, 6, 74);
     border-radius: 50%;
     color:rgb(231, 6, 74) ;
 	border-style: solid;
     width: 100px
-}
-
-
-
-
 
 
 

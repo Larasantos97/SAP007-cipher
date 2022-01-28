@@ -1,16 +1,19 @@
 const cipher = {
 
-  //code: function (string, offset){
+  encode(){
+    return "abacaxi"
 
- // }
- // for (let i= 0; i<=String.lenght; i++){
-    //const  
-  //}
+ }
+ 
+ ,decode(){
+   return "tigre"
+   }
+ 
+ 
 
-   
+
         
-        
-        
+              
  
 };
 
