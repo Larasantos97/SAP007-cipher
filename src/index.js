@@ -35,3 +35,7 @@ Resultado2.value = cipher.decode(decifrar,offset);
 
  
 console.log(cipher);
+
+//Não é preciso criar variáveis para tudo que fizer, basta criar uma função e dentro tudo relacionado.
+//Nas variáveis acima, antes das funções é a criação de um evento de acordo com oque o usuário faz, por exemplo, a resposta aparecer somente assim que clicar no botão.
+//O getElementByID, pega um elemento e faz um "evento" de acordo com o ID.

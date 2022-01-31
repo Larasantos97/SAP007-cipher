@@ -19,18 +19,17 @@ body{
     color: rgb(116, 78, 83);
     background-color: blanchedalmond;
 }
+
 .meio{
-    font-size: 18px;
-    text-align: center;
-    background-image: url(carta.jpg);
-    background-size: contain;
-    color:rgba(0, 0, 0, 0.993)
-
+font-size: 18px;
+text-align: center;
+background-color: rgb(218, 147, 171);
+color:rgba(0, 0, 0, 0.993)
 }
+
 .cifrar{
-    text-align: left;
+  text-align: left;  
 }
-
 .button{
     text-align: left;
 	border-radius: 30%;
@@ -40,6 +39,7 @@ body{
 .result{
     text-align: left;
 }
+
 .decifrar{
     text-align: right;
 }
@@ -56,12 +56,5 @@ body{
 footer{
     color: black;
 }
-
-/*background-color: rgb(231, 6, 74);
-    border-radius: 50%;
-    color:rgb(231, 6, 74) ;
-	border-style: solid;
-    width: 100px
-
 
 
