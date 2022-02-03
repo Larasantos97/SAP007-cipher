@@ -1,6 +1,6 @@
 import cipher from './cipher.js';
 
-const offset = 1
+const offset = 26;
 
  const button1 = document.getElementById("button1");
  button1.addEventListener("click", cifrar);
