@@ -1,0 +1,71 @@
+body{
+    background-image: url("heart.png");
+    
+    font-family: cursive;
+    font-size: 20px;
+    background-repeat: repeat;
+    margin: 2%;
+    text-align: center;
+    color: rgb(206, 54, 75);
+    
+}
+textarea {
+    width: 20%;
+    height: 80px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid rgb(107, 35, 85);
+    border-radius: 15px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+.body2{
+    background-size: 100%;
+    font-family: cursive;
+    font-size: 20px;
+    margin: 2%;
+    text-align: center;
+    color: rgb(116, 78, 83);
+    background-color: blanchedalmond;
+}
+
+.meio{
+font-size: 18px;
+text-align: center;
+background: linear-gradient(#FFC0CB, rgb(207, 134, 221));
+color:rgba(0, 0, 0, 0.993)
+}
+
+
+.cifrar{
+  text-align: left;  
+}
+.button{
+    text-align: left;
+	border-radius: 30%;
+    padding: 10px;
+}
+    
+.result{
+    text-align: left;
+}
+
+.decifrar{
+    text-align: right;
+}
+.button2{
+    text-align: right;
+    border-radius: 30%;
+    padding: 10px;
+    
+}
+.result2{
+    text-align: right;
+}
+
+footer{
+    font-size: 15px;
+    color: black;
+}
+
+
