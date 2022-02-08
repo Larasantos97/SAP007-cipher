@@ -3,14 +3,9 @@
 ## Índice
 
 - [1. Prefácio](#1-prefácio)
-- [2. Resumo do projeto](#2-resumo-do-projeto)
-- [3. Objetivos de aprendizagem](#3-objetivos-de-aprendizagem)
-- [4. Considerações gerais](#4-considerações-gerais)
-- [5. Critérios de aceitação mínimos do projeto](#5-critérios-de-aceitação-mínimos-do-projeto)
-- [6. Hacker edition](#6-hacker-edition)
-- [7. Considerações técnicas](#7-considerações-técnicas)
-- [8. Guias, dicas e leituras complementares](#8-guias-dicas-e-leituras-complementares)
-- [9. Checklist](#9-checklist)
+- [2. Sobre cifrando e decifrando o amor](#2-Sobre-cifrando-e-decifrando-o-amor)
+
+
 
 ---
 
@@ -49,13 +44,24 @@ definir o produto final a nível de experiência e interface.
 - Quais são os objetivos do usuário em relação com o produto?
 - Como você acredita que o produto está resolvendo os problemas do usuário?
 
+## 2. Sobre Cifrando e decifrando o amor
+
+### Esboço do projeto
+
+<img src="src/Esboço.png" alt="Cypher esboço"> 
+
+### Fase final 
+
+<img src="src/PrintTela.png" alt="Fase Final">
+
 ### Definição do usuário
 
 O usuário foi pensado nos amantes, que gostariam de viver uma aventura escrevendo cartas onde somente eles saberão o significado, tendo descrição em uma interface fácil de usar.
 
 ### Processo para definir o produto final a nível de experiência e interface
 
-O processo de execução foi feito primeiramente em um esboço da página no programa "paint", pensando em como o usuário conseguiria utilizar a interface sem dificuldades. A princípio, ao criar a página de acordo com o primeiro esboço, foi visto como seria se simplificasse um pouco mais alguns itens da página para que o usuário não precise preencher informações mais vezes do que o necessário, no caso do campo de deslocamento, que antes teria nos dois blocos, sendo eles "Cifrar" e "
+O processo de execução foi feito primeiramente em um esboço da página no programa "paint", pensando em como o usuário conseguiria utilizar a interface sem dificuldades. A princípio, ao criar a página de acordo com o primeiro esboço, foi visto como seria se simplificasse um pouco mais alguns itens da página para que o usuário não precise preencher informações mais vezes do que o necessário, no caso do campo de deslocamento, que antes teria nos dois blocos, sendo eles "Cifrar" e "Decifrar", agora se encontra no inicio, onde será colocado antes de inserir o texto desejado para ser cifrado/decifrado.
+
 
 ### Interface do usuário (UI)
 
