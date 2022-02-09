@@ -54,6 +54,10 @@ definir o produto final a nível de experiência e interface.
 
 <img src="src/PrintTela.png" alt="Fase Final">
 
+### Fluxograma do processo de criação
+
+<img src="src/Cipher Projeto LAB 1.jpeg" alt="Fluxograma">
+
 ### Definição do usuário
 
 O usuário foi pensado nos amantes, que gostariam de viver uma aventura escrevendo cartas onde somente eles saberão o significado, tendo descrição em uma interface fácil de usar.
